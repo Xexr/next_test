@@ -15,7 +15,7 @@
     "@vercel/postgres": "^0.3.0",
     "drizzle-orm": "^0.25.4",
     "drizzle-zod": "^0.4.1",
-    "next": "13.4.2",
+    "next": "13.4.3-canary.1",
     "pg": "^8.11.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
